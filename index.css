@@ -1,3 +1,16 @@
-h {
+h1 {
   color: darkblue;
+  background-color: darkmagenta;
+  text-align: center;
+}
+
+p {
+  color: rgb(5, 0, 3);
+  background-color: rgb(10, 151, 151);
+  text-align: center;
+}
+
+a {
+  color: crimson;
+text-decoration: line-through;
 }
